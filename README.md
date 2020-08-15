@@ -16,7 +16,7 @@
 
 租界规划不是很完善，列好了要做建筑的条目，道路规划也就是画格子，我不是科班出身，没学过城市规划之类的知识，能借助的只有之前玩过的城市天际线和一些城市规划地图。
 
-![image-20200816014620403]https://github.com/salmonchin/MCstories/blob/master/images/image-20200816014620403.png
+![Alt text]https://github.com/salmonchin/MCstories/blob/master/images/image-20200816014620403.png
 
 这个城市是基于上海地图修建，当然也不是全比例的上海地图，比例尺大概是1:10，未来可能会考虑过重构地图。
 
